@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Cucurella",
+    "username": "Insha",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 120,
       "messages": [
-        "I hate Kavish",
-        "INSHALLAH!",
-        "Nigga?"
+        "Heylo gang",
+        "Gang Im lonely",
+        "Kavish Lowk dumb",
+        "2 week phase more like 2 day phase"
       ]
     },
     "chat-log": true,
@@ -69,8 +70,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
